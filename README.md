@@ -1,4 +1,4 @@
-# banco_imobiliario
+# Banco Imobiliario
 Projeto de um simulador de banco imobiliario:
  * Possivel utilizar como API
  * Possivel utilizar em linhas de comando 
