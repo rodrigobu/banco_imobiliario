@@ -1,10 +1,10 @@
 # -*- Coding: UTF-8 -*-
 import random
 
-from estrategia import JogadorAleatorio, JogadorCauteloso, JogadorExigente
-from estrategia import JogadorImpulsivo
-from propriedade import Propriedades
-from dicionario_propriedaes import PROPRIEDADES
+from apps.jogo.mixins.estrategia import JogadorAleatorio, JogadorCauteloso, JogadorExigente
+from apps.jogo.mixins.estrategia import JogadorImpulsivo
+from apps.jogo.mixins.propriedade import Propriedades
+from apps.jogo.mixins.dicionario_propriedaes import PROPRIEDADES
 
 
 class Tabuleiro():

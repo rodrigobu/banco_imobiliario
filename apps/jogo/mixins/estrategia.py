@@ -2,7 +2,7 @@
 
 import random
 
-from jogador import Jogador
+from apps.jogo.mixins.jogador import Jogador
 
 class JogadorImpulsivo(Jogador):
     ''' Class que herda a classe de Jogador para adicionar 
